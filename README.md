@@ -5,7 +5,8 @@ Test samples for multiple open source libraries
 
 Java:
 
-* [template](java/template/README.md)
+* [template](java/template)
+* [apache/log4j 2](java/apache/log4j2)
 
 ## License
 
