@@ -3,7 +3,7 @@
 
 ## Get Start
 
-1. Add library dependency:
+* Add library dependency:
 
     ```gradle
     dependencies {
