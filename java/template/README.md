@@ -1,8 +1,6 @@
 
 # {template holder}
 
-[root document](../../README.md)
-
 ## Get Start
 
 1. Add library dependency:
